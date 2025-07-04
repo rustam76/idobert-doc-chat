@@ -29,8 +29,8 @@ my-python-project/
 ### 1. Clone the Repository
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/rustam76/idobert-doc-chat.git
+cd idobert-doc-chat
 ```
 
 ### 2. Create Virtual Environment
