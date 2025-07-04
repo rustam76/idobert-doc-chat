@@ -1,0 +1,6 @@
+venv
+.env
+./venv
+
+flask_session/*
+uploads/*
